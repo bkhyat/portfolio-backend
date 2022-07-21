@@ -1,10 +1,7 @@
-from rest_framework.routers import SimpleRouter
+from django.urls import path
 
-from api.resume.v1.profile.views import ProfileViewSet
-from api.resume.v1.experience.views import ExperienceViewSet
+from api.resume.v1.viewsets import ResumeViewSet
 
-router = SimpleRouter()
-router.register(r'profiles', ProfileViewSet)
-router.register(r'experiences', ExperienceViewSet)
-
-urlpatterns = router.urls
+urlpatterns = [
+    path(r'users/<int:pk>/', ResumeViewSet.as_view())
+]

@@ -1,16 +1,22 @@
 from django.db import models
+from django.contrib.auth.models import User
+
 
 # Create your models here.
 
+# class User(AbstractUser):
+#     address = models.CharField(max_length=200, null=True, blank=True)
+#
 
-class TimeStampModel(models.Model):
+class CustomBaseModel(models.Model):
     class Meta:
         abstract = True
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
 
 
-class Profile(TimeStampModel):
+class Profile(CustomBaseModel):
     class Meta:
         ordering = ['order']
 
@@ -21,7 +27,7 @@ class Profile(TimeStampModel):
         return self.value
 
 
-class Experience(TimeStampModel):
+class Experience(CustomBaseModel):
     designation = models.CharField(max_length=50)
     organization = models.CharField(max_length=100)
     address = models.CharField(max_length=100)
@@ -41,11 +47,14 @@ class Experience(TimeStampModel):
     end_date = models.DateField(null=True, blank=True)
     skills = models.ManyToManyField('TechSkill')
 
+    class Meta:
+        ordering = ("-end_date", "start_date")
+
     def __str__(self):
         return f'{self.designation} at {self.organization}'
 
 
-class ExperienceDescription(TimeStampModel):
+class ExperienceDescription(CustomBaseModel):
     bullet = models.CharField(max_length=200)
     order = models.SmallIntegerField()
     experience = models.ForeignKey('Experience', on_delete=models.SET_NULL, null=True)
@@ -61,7 +70,7 @@ class TechSkillCategory(models.Model):
         return self.category
 
 
-class TechSkill(models.Model):
+class TechSkill(CustomBaseModel):
     name = models.CharField(max_length=50)
     level = models.SmallIntegerField(choices=[(1, 1),
                                               (2, 2),
@@ -75,14 +84,14 @@ class TechSkill(models.Model):
         return self.name
 
 
-class SoftSkill(models.Model):
+class SoftSkill(CustomBaseModel):
     name = models.CharField(max_length=100)
 
     def __str__(self):
         return self.name
 
 
-class Education(models.Model):
+class Education(CustomBaseModel):
     university = models.CharField(max_length=100)
     school = models.CharField(max_length=100)
     address = models.CharField(max_length=100)
@@ -102,14 +111,14 @@ class Education(models.Model):
         return f'{self.level}, {self.course} at {self.university}'
 
 
-class Interest(models.Model):
+class Interest(CustomBaseModel):
     interest = models.CharField(max_length=50)
 
     def __str__(self):
         return self.interest
 
 
-class Contact(models.Model):
+class Contact(CustomBaseModel):
     contact_type = models.CharField(max_length=100)
     contact_info = models.CharField(max_length=50)
 
