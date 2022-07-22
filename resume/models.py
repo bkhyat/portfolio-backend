@@ -48,7 +48,7 @@ class Experience(CustomBaseModel):
     skills = models.ManyToManyField('TechSkill')
 
     class Meta:
-        ordering = ("-end_date", "start_date")
+        ordering = ("-start_date",)
 
     def __str__(self):
         return f'{self.designation} at {self.organization}'
