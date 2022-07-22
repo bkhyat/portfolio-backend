@@ -3,6 +3,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
 from api.resume.urls import urlpatterns as resume_url
+from api.todo.urls import urlpatterns as todo_url
 
 
 @api_view()
@@ -13,5 +14,6 @@ def get_requirements(request):
 
 urlpatterns = [
     path(r'resume/', include(resume_url)),
+    path(r'todo/', include(todo_url)),
     path(r'requirements/', get_requirements)
 ]
