@@ -1,3 +1,4 @@
+import time
 from itertools import groupby
 
 from django.contrib.auth.models import User
@@ -94,11 +95,10 @@ class ResumeSerializer(serializers.ModelSerializer):
     def to_representation(self, instance):
         data = super().to_representation(instance)
         tech_skills, soft_skills = data.pop('tech_skills'), data.pop('soft_skills')
-        return data | {"skills":
-                           {
-                               "soft_skills": soft_skills,
-                               "tech_skills": {key:[{"name": item["name"], "level": item["level"]}
-                                                    for item in grp]
-                                               for key,grp in groupby(tech_skills, key=lambda skill:skill['category'])}
-                            }
-                       }
+        data["skills"] = {
+            "soft_skills": soft_skills,
+            "tech_skills": {key: [{"name": item["name"], "level": item["level"]}
+                                  for item in grp]
+                            for key, grp in groupby(tech_skills, key=lambda skill: skill['category'])}
+        }
+        return data
