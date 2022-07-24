@@ -14,6 +14,6 @@ class ToDo(TimeStampModel):
 
     title = models.CharField(max_length=50, null=False, blank=False)
     description = models.TextField(default='')
-    is_completed = models.BooleanField(default=True)
+    is_completed = models.BooleanField(default=False)
     completed_at = models.DateTimeField(null=True)
 
