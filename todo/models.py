@@ -10,7 +10,7 @@ class TimeStampModel(models.Model):
 
 class ToDo(TimeStampModel):
     class Meta:
-        ordering = ['created_at', 'title']
+        ordering = ['is_completed', '-updated_at', '-created_at']
 
     title = models.CharField(max_length=50, null=False, blank=False)
     description = models.TextField(default='')
