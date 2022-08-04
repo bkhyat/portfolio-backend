@@ -153,7 +153,7 @@ class Project(CustomBaseModel):
         ordering = ['-completed_at']
 
     def __str__(self):
-        return f'{self.id} - {self.project_name} - {self.completed_year}'
+        return f'{self.id} - {self.project_name} - {self.completed_at}'
 
 
 class CoursesAndCertification(CustomBaseModel):
