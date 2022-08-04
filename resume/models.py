@@ -129,7 +129,7 @@ class Contact(CustomBaseModel):
         return f'{self.contact_type}: {self.contact_info}'
 
 
-class Achievements(CustomBaseModel):
+class Achievement(CustomBaseModel):
     description = models.CharField(max_length=200)
     link = models.URLField(null=True, blank=True, max_length=200)
     order = models.PositiveSmallIntegerField()
@@ -141,7 +141,7 @@ class Achievements(CustomBaseModel):
         return f'{self.id} - {self.description}'
 
 
-class Projects(CustomBaseModel):
+class Project(CustomBaseModel):
     project_name = models.CharField(max_length=200)
     project_description = models.CharField(max_length=500)
     tech_stacks = models.ManyToManyField(TechSkill)
@@ -156,7 +156,7 @@ class Projects(CustomBaseModel):
         return f'{self.id} - {self.project_name} - {self.completed_year}'
 
 
-class CoursesAndCertifications(CustomBaseModel):
+class CoursesAndCertification(CustomBaseModel):
     title = models.CharField(max_length=200)
     url = models.URLField(max_length=200, null=True, blank=True)
     description = models.CharField(max_length=500)
