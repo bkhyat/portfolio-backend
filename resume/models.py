@@ -114,6 +114,9 @@ class Education(CustomBaseModel):
 class Interest(CustomBaseModel):
     interest = models.CharField(max_length=50)
 
+    class Meta:
+        ordering = ['id']
+
     def __str__(self):
         return self.interest
 
@@ -129,6 +132,10 @@ class Contact(CustomBaseModel):
 class Achievements(CustomBaseModel):
     description = models.CharField(max_length=200)
     link = models.URLField(null=True, blank=True, max_length=200)
+    order = models.PositiveSmallIntegerField()
+
+    class Meta:
+        ordering = ['order']
 
     def __str__(self):
         return f'{self.id} - {self.description}'
@@ -138,9 +145,12 @@ class Projects(CustomBaseModel):
     project_name = models.CharField(max_length=200)
     project_description = models.CharField(max_length=500)
     tech_stacks = models.ManyToManyField(TechSkill)
-    completed_year = models.DateField(null=True)
+    completed_at = models.DateField(null=True)
     url = models.URLField(null=True, blank=True, max_length=200)
     has_demo = models.BooleanField(default=True)
+
+    class Meta:
+        ordering = ['-completed_at']
 
     def __str__(self):
         return f'{self.id} - {self.project_name} - {self.completed_year}'
@@ -151,6 +161,10 @@ class CoursesAndCertifications(CustomBaseModel):
     url = models.URLField(max_length=200, null=True, blank=True)
     description = models.CharField(max_length=500)
     certification_url = models.URLField(max_length=200, null=True, blank=True)
+    completed_at = models.DateField(null=True)
+
+    class Meta:
+        ordering = ['-completed_at']
 
     def __str__(self):
         return f'{self.id} - {self.title}'
