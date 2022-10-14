@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/3.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
-
+from datetime import timedelta
 from pathlib import Path
 import environ
 import os
@@ -45,16 +45,26 @@ INSTALLED_APPS = [
     'nav.apps.NavConfig',
     'resume.apps.ResumeConfig',
     'rest_framework',
+    'rest_framework_simplejwt',
     'corsheaders',
     'drf_spectacular'
 ]
 REST_FRAMEWORK = {
-    # YOUR SETTINGS
+    'DATETIME_FORMAT': ' %b, %d-%Y %I:%M %p',
     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
+    'DEFAULT_AUTHENTICATION_CLASSES': ['rest_framework_simplejwt.authentication.JWTAuthentication'],
+    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.IsAuthenticatedOrReadOnly']
 }
+
+SIMPLE_JWT = {
+    "ACCESS_TOKEN_LIFETIME": timedelta(days=1),
+    "REFRESH_TOKEN_LIFETIME": timedelta(days=2),
+    "AUTH_HEADER_TYPES": ("Bearer",),
+}
+
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Your Project API',
-    'DESCRIPTION': 'Your project description',
+    'TITLE': 'Portfolio Backend',
+    'DESCRIPTION': 'Backend for Personal Portfolio site',
     'VERSION': '1.0.0',
     # OTHER SETTINGS
 }
