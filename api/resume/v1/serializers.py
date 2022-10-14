@@ -1,10 +1,10 @@
-import time
 from itertools import groupby
 
 from django.contrib.auth.models import User
 from rest_framework import serializers
 
-from resume.models import SoftSkill, Education, Contact, Experience, TechSkill, Profile, ExperienceDescription, Interest
+from resume.models import SoftSkill, Education, Contact, Experience, TechSkill, Profile, ExperienceDescription, \
+    Interest, Achievement, Project, CoursesAndCertification
 
 
 class ProfileSerializer(serializers.ModelSerializer):
@@ -79,6 +79,24 @@ class InterestSerializer(serializers.ModelSerializer):
         return instance.interest
 
 
+class AchievementSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Achievement
+        fields = '__all__'
+
+
+class ProjectSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Project
+        fields = '__all__'
+
+
+class CoursesAndCertificationSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = CoursesAndCertification
+        fields = '__all__'
+
+
 class ResumeSerializer(serializers.ModelSerializer):
     profiles = ProfileSerializer(many=True, source="profile_set")
     contacts = ContactSerializer(many=True, source="contact_set")
@@ -87,10 +105,16 @@ class ResumeSerializer(serializers.ModelSerializer):
     experiences = ExperienceSerializer(many=True, source="experience_set")
     tech_skills = TechSkillSerializer(many=True, source="techskill_set")
     interests = InterestSerializer(many=True, source="interest_set")
+    achievements = AchievementSerializer(many=True, source="achievement_set")
+    certifications = CoursesAndCertificationSerializer(many=True, source="coursesandcertification_set")
+    projects = ProjectSerializer(many=True, source="project_set")
 
     class Meta:
         model = User
-        fields = ("profiles", "contacts", "soft_skills", "educations", "experiences", "tech_skills", "interests")
+        fields = (
+            "profiles", "contacts", "soft_skills", "educations", "experiences", "tech_skills", "interests",
+            "achievements",
+            "certifications", "projects")
 
     def to_representation(self, instance):
         data = super().to_representation(instance)

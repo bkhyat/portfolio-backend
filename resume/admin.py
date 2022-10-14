@@ -7,7 +7,7 @@ from resume.models import (Profile,
                            SoftSkill,
                            Education,
                            Interest,
-                           Contact)
+                           Contact, Project, CoursesAndCertification, Achievement)
 
 
 class ProfileAdmin(admin.ModelAdmin):
@@ -75,5 +75,23 @@ class ContactAdmin(admin.ModelAdmin):
 admin.site.register(Contact, ContactAdmin)
 
 
+class AchievementAdmin(admin.ModelAdmin):
+    pass
 
+
+admin.site.register(Achievement, AchievementAdmin)
+
+
+class ProjectAdmin(admin.ModelAdmin):
+    pass
+
+
+admin.site.register(Project, ProjectAdmin)
+
+
+class CoursesAndCertificationAdmin(admin.ModelAdmin):
+    pass
+
+
+admin.site.register(CoursesAndCertification, CoursesAndCertificationAdmin)
 
