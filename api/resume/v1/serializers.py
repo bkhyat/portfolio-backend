@@ -10,6 +10,7 @@ from resume.models import SoftSkill, Education, Contact, Experience, TechSkill, 
 class ProfileSerializer(serializers.ModelSerializer):
     class Meta:
         model = Profile
+        fields = '__all__'
 
     def to_representation(self, instance):
         return instance.value
@@ -24,6 +25,7 @@ class ContactSerializer(serializers.ModelSerializer):
 class SoftSkillSerializer(serializers.ModelSerializer):
     class Meta:
         model = SoftSkill
+        fields = '__all__'
 
     def to_representation(self, instance):
         return instance.name
@@ -46,6 +48,7 @@ class EducationSerializer(serializers.ModelSerializer):
 class ExperienceTechSkillSerializer(serializers.ModelSerializer):
     class Meta:
         model = TechSkill
+        fields = '__all__'
 
     def to_representation(self, instance):
         return instance.name
@@ -54,6 +57,7 @@ class ExperienceTechSkillSerializer(serializers.ModelSerializer):
 class ExperienceDescriptionSerializer(serializers.ModelSerializer):
     class Meta:
         model = ExperienceDescription
+        fields = '__all__'
 
     def to_representation(self, instance):
         return instance.bullet
@@ -74,6 +78,7 @@ class ExperienceSerializer(serializers.ModelSerializer):
 class InterestSerializer(serializers.ModelSerializer):
     class Meta:
         model = Interest
+        fields = '__all__'
 
     def to_representation(self, instance):
         return instance.interest
