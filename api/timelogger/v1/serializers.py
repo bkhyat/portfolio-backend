@@ -4,6 +4,8 @@ from timelogger.models import TimeLog
 
 
 class TimeLoggerSerializer(serializers.ModelSerializer):
+    duration = serializers.ReadOnlyField()
+
     class Meta:
         model = TimeLog
         fields = '__all__'
