@@ -1,4 +1,5 @@
 import django_filters
+from django.db.models import Sum
 from rest_framework import viewsets, permissions
 from rest_framework.response import Response
 from rest_framework import filters
@@ -23,9 +24,9 @@ class TimeLoggerViewSet(viewsets.ModelViewSet):
 
     def create(self, request, *args, **kwargs):
         serializer = self.serializer_class(data=request.data)
-        serializer.is_valid()
+        serializer.is_valid(raise_exception=True)
         serializer.save(user=request.user)
-        return Response(serializer.data)
+        return Response(serializer.validated_data)
 
     def list(self, request, *args, **kwargs):
         return super(TimeLoggerViewSet, self).list(request, *args, **kwargs)
