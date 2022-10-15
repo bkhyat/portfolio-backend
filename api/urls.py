@@ -5,6 +5,7 @@ from rest_framework.response import Response
 from api.resume.urls import urlpatterns as resume_url
 from api.todo.urls import urlpatterns as todo_url
 from api.auth.urls import urlpatterns as auth_url
+from api.timelogger.urls import urlpatterns as timelogger_url
 
 
 @api_view()
@@ -17,5 +18,6 @@ urlpatterns = [
     path(r'resume/', include(resume_url)),
     path(r'todo/', include(todo_url)),
     path(r'requirements/', get_requirements),
-    path(r'auth/', include(auth_url))
+    path(r'auth/', include(auth_url)),
+    path(r'time-logger/', include(timelogger_url)),
 ]

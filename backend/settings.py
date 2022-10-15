@@ -41,19 +41,24 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # Apps
     'todo.apps.TodoConfig',
     'nav.apps.NavConfig',
     'resume.apps.ResumeConfig',
+    'timelogger.apps.TimeloggerConfig',
+    # 3rd parties
     'rest_framework',
     'rest_framework_simplejwt',
     'corsheaders',
-    'drf_spectacular'
+    'drf_spectacular',
+    'django_filters'
 ]
 REST_FRAMEWORK = {
     'DATETIME_FORMAT': ' %b, %d-%Y %I:%M %p',
     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
     'DEFAULT_AUTHENTICATION_CLASSES': ['rest_framework_simplejwt.authentication.JWTAuthentication'],
-    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.IsAuthenticatedOrReadOnly']
+    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.IsAuthenticatedOrReadOnly'],
+    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend']
 }
 
 SIMPLE_JWT = {
