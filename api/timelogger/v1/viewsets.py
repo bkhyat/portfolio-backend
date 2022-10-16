@@ -25,8 +25,8 @@ class TimeLoggerViewSet(viewsets.ModelViewSet):
     def create(self, request, *args, **kwargs):
         serializer = self.serializer_class(data=request.data)
         serializer.is_valid(raise_exception=True)
-        serializer.save(user=request.user)
-        return Response(serializer.validated_data)
+        instance = serializer.save(user=request.user)
+        return Response(self.serializer_class(instance).data)
 
     def list(self, request, *args, **kwargs):
         return super(TimeLoggerViewSet, self).list(request, *args, **kwargs)
