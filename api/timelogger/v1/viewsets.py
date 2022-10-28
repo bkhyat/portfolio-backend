@@ -1,4 +1,4 @@
-from datetime import timedelta
+from datetime import timedelta, datetime
 from itertools import groupby
 
 import django_filters
@@ -8,7 +8,7 @@ from rest_framework import viewsets, permissions
 from rest_framework.decorators import action
 from rest_framework.response import Response
 
-from api.timelogger.v1.serializers import TimeLoggerSerializer
+from api.timelogger.v1.serializers import TimeLoggerSerializer, SummarySerailizer
 from timelogger.models import TimeLog
 
 
@@ -34,6 +34,22 @@ class TimeLoggerViewSet(viewsets.ModelViewSet):
         return Response(self.serializer_class(instance).data)
 
     def list(self, request, *args, **kwargs):
+        start_date = request.GET.get('start_date')
+        if start_date:
+            start_date = datetime.strptime(request.GET.get('start_date'), '%Y-%m-%d')
+            end_date = datetime.strptime(request.GET.get('end_date'), '%Y-%m-%d')
+            qs = self.get_queryset().filter(date__gte=start_date, date__lte=end_date)
+
+            summary = []
+            for days in range((end_date - start_date).days):
+                date = start_date + timedelta(days=days)
+                filtered = qs.filter(date=date)
+                summary.append({'date': date.strftime('%Y-%m-%d'),
+                                'duration_in_minutes': sum(obj.duration_in_minutes for obj in filtered),
+                                'day': date.weekday()})
+            logs = self.serializer_class(qs, many=True)
+            summary = SummarySerailizer(summary, many=True)
+            return Response(data={'logs': logs.data, 'summary': summary.data})
         return super(TimeLoggerViewSet, self).list(request, *args, **kwargs)
 
     @action(methods=['GET'], detail=False, url_path='weekly-summary')
