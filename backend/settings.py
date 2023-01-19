@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'nav.apps.NavConfig',
     'resume.apps.ResumeConfig',
     'timelogger.apps.TimeloggerConfig',
+    'vocab.apps.VocabConfig',
     # 3rd parties
     'rest_framework',
     'rest_framework_simplejwt',

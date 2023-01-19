@@ -23,3 +23,12 @@ class TimeLoggerSerializer(serializers.ModelSerializer):
         # Same may be applicable for start and end too
         # And it may require to use UTC as time can differ from server to clients
         return super(TimeLoggerSerializer, self).validate(attrs)
+
+
+class SummarySerailizer(serializers.Serializer):
+    date = serializers.CharField(read_only=True)
+    duration_in_minutes = serializers.IntegerField(read_only=True)
+    day = serializers.IntegerField(read_only=True)
+
+    class Meta:
+        fields = ('date', 'duration_in_minutes', 'day')
