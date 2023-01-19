@@ -17,3 +17,7 @@ class ToDo(TimeStampModel):
     is_completed = models.BooleanField(default=False)
     completed_at = models.DateTimeField(null=True)
 
+
+class Test_Model(models.Model):
+    Name = models.CharField(max_length=1, default='')
+    Value = models.IntegerField(default=1)

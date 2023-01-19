@@ -6,6 +6,7 @@ from api.resume.urls import urlpatterns as resume_url
 from api.todo.urls import urlpatterns as todo_url
 from api.auth.urls import urlpatterns as auth_url
 from api.timelogger.urls import urlpatterns as timelogger_url
+from api.vocab.urls import urlpatterns as vocab_url
 
 
 @api_view()
@@ -20,4 +21,5 @@ urlpatterns = [
     path(r'requirements/', get_requirements),
     path(r'auth/', include(auth_url)),
     path(r'time-logger/', include(timelogger_url)),
+    path(r'vocabs/', include(vocab_url))
 ]
