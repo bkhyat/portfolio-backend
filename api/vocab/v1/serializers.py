@@ -53,10 +53,11 @@ class PracticeSetSerializer(serializers.ModelSerializer):
 
     def get_data(self, instance):
         data = {"id": instance.id, "category_name": instance.category_name}
-        if children := [
+        children = [
             PracticeSetSerializer.get_data(self, child)
             for child in instance.children.all()
-        ]:
+        ]
+        if children:
             data["children"] = children
         return data
 

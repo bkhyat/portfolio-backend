@@ -47,7 +47,8 @@ class Category(models.Model):
         qs = qs | category.vocabword_set.all()
         for child in children:
             qs = qs | child.vocabword_set.all()
-            if nested_children := child.children.all():
+            nested_children = child.children.all()
+            if nested_children:
                 qs = qs | Category.__get_words_recursively(child, nested_children, qs)
         return qs
 
