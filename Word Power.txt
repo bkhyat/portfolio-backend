@@ -1,0 +1,149 @@
+﻿W1, W2, L1, L2 
+1. Reticent, Taciturn, Tacit, Congenial, Genial, Brusque, Curt, Abrupt, Terse 
+2. Gregarious, Reclusive, Recluse, Egregious, Congenital, Negligible, Insignificant, Crucial, Trivial, Trifling 
+3. While, Prudent, Imprudent, Ingenuous, Ingénue, Ingenious, Ingenuity, Bland, Insipid, Toothsome 
+4. Popular, Misconception, Delusion, Preconception, Edible, Potable, Interchangeable, Bucolic, Remarkable,  Unremarkable, Noteworthy 
+5. Pastoral, Spurious, Fallacious, Specious, Spacious, Meandering, Formal, Archaic, Figurative 
+6. Verdant, Seasoned, Verbal, Research, Scholarship, Impartial, Exhaustive, Hypothesis 
+7. Premise, Assumption, Conclusion, Argument, Intermediate conclusion, Position, Classify, Divulge, Reveal,  Several, Buoyant 
+8. Substantial, Instigate, Primarily, Construe, Misconstrue, Rising, Revolt, Uprising, Revolting, Landmark, In  concert with, Concerted 
+9. Disconcert, Embarrass, Abash, Discomfit, Mortify, Proclamation, Proclaim, Declamation, Declaim,  Acclamation, Acclaim, Subsequent, Execute, Renewed 
+10. Fervor, Zeal, Lobby, Tactical, Tactic, Tact, Tactful, Tactless, Intact, Herpetologist, Intelligent, Sealant,  Prosperity, Prosperous, Solvent, Insolvent, Insoluble, Soluble 
+11. Moribund, Defunct, Functionary, Perfunctory, Cursory, Collegiate, Crucial, Diligent, Industrious, Assiduous,  Sedulous, Sedulity, Asinine, Impulse, Impulsive 
+12. Upsurge, Onset, Saturated, Pathogen, Detect, Outset, Initiate, Inception, Preamble, Saturate, Imbue, Infuse,  Pathogenic, Hygienic, Salubrious 
+13. Salutary, Wholesome, Advocate, Proponent, Sponsor, Adherent, Adversary, Opponent 
+14. Galvanize, Rugged, Recondite, Arcane, Esoteric, Rarefied, Skeptical, Skeptic, Predilection, Aversion,  Impediment, Ancestor 
+15. Affinity, Appealing, Unappealing, Inviting, Contrive, Engaging, Counterfeit, Phony, Bogus, Contrived, Scant,  Scanty, Meager, Petty 
+16. Paltry, Prescient, Prescience, Nescient, Benighted, Naïve, Naïf, Unsuspecting, Serendipity, Blemish,  Imperative 
+17. Commensurate, Prolix, Instructive, Didactic, Auto didactic, Contend, Cunning, Vulpine, Artful, Artless 
+18. Crafty, Fox-like, Wily, Sly, Disseminate, Debunk, Far from, Aside from, Verifiable, Verify, Verisimilar,  Verisimilitude, Turpitude, Verity, Veritable 
+19. Scrutiny, Veracious, Veracity, Voracious, Piggish, Gluttonous, Aver, Come through, Stretch, Idiosyncratic,  Derivative, Aghast, Bemuse 
+20. Patois, Parlance, Lucid, Sympathy, Empathy, Empathetic, Apathy, Sympathetic, Unsympathetic, Unflappable,  Imperturbable 
+21. Mercurial, Flatter, Adulate, Flatterer, Adulator, Sincere, Insincere, Egotist, Egoist, Hypocrite, Hypocritical,  Braggart, Sycophantic, Layperson
+22. Substantive, Inconsequential, Obsessed, Novelty, Predicament, Boon, Quandary, Loquacious, Garrulous,  Audacious, Sullen 
+23. Stun, Surly, Amiable, Bizarre, Outlandish, Daring, Eccentric, Imitative, Inclusive, Callous 
+24. Callow, Indurate, Obdurate, Obstinate, Headstrong, Bull-headed, Pig-headed, Adamant, Fickle 
+25. Compensate, Lackadaisical, Ebullient, Criticize, Patron, Intrusive, Accustomed to, Hipster, Promising, Debut,  Chronic, Pose 
+26. Effect, Prompt, Remission, Remiss, Amiss, Paradox, Discrepancy, Reconcile, Confiscate, Enforce, Vigor,  Vigorous 
+27. Vim and vigor, Invigorate, Innervate, Enervate, Unnerve, Obfuscate, Lull into, Feat, Fiat, By fiat, Rapt,  Rapture 
+28. Enrapture, Putrid, Botch, Bungle, Broach, Breach, Rife with, Strife, Strive, Heed, Heedful, Heedless 
+29. Conclusion, Contention, Assertion, Imply, Infer, Claim, Pulverize, Beset, Besiege, Question, Questionable,  Dubious, Dubitable, Indubitable, Revolutionary, Provenance 
+30. Forge, Sever, Reputable, Disreputable, Repute, Disrepute, Reputed, Reputed, Reputation, By reputation,  Unwarranted, Baseless, Groundless, Unfounded, Ungrounded 
+31. Warrant, Esteem, Justify, Feigned, Unfeigned, Feign, Guise, Disguise, Undisguised, Contempt, Undue,  Revered, Seemingly, Elaborate, Deceivingly, Set somebody apart 
+32. Eyes, Descriptor, Antiquated, Encompass, Soar, Augment, Escalate, Plummet, Engender, Agitation,  Discomposure, Composure 
+33. Discomposed, Composed, Equilibrium, Equanimity, Discomposure 
+34. Self-evident, Axiomatic, Axiom, Prevalent, Indoctrinate, Inculcate, Doctrinaire, Iconoclastic, Iconoclast,  Iconoclasm, Celebrated, Celebrity, Celebrate 
+35. Long-awaited, Pending, Impending, Imminent, Eminent, Attainment, Circumscribe, Proscribe, Prescribe,  Inscribe, Seemly, Decorous, Indecorous, Aloof, Propriety, Decorum, Impropriety, Unseemly 
+36. Standing, Undermine, Underscore, Shore up, Prop up, Undergird, Underpin, Give in, Relent, Skittish,  Germane, Restive, Hidebound, Relegate, Demote 
+37. Brawn, Brawny, Demotic, Democratic, Inhibit, Impede, Impediment, No bearing on, At the mercy of,  Foolhardy, Mettlesome, Mettle, Meddle, Meddlesome 
+38. Officious, Officiate, Reproof, Probity, Equity, Inequity, Equitable, Iniquitous, Benevolent, Malevolent, Volition 
+39. Shy, Accessible, Inaccessible, Wont, Wonted, Unwonted, Immure, Incarcerate, Confine, Mural, Inure 
+40. Anachronistic, Anachronism, Dispassionate, Passionate, Impassioned, Unimpassioned, Resentment,  Aberration, Aberrant, Discern, Discernible, Discerning, Discriminating 
+41. Signature, Invariable, Variable, Prevaricate, Fib, Woe, Woeful, Woe-be-gone, Woo, Transgress, Trickery,  Game, Duplicity, Poly, Wile, Stratagem, Chicanery, Craft, Cunning, Artifice 
+42. Collusion, Collusive, Collude, Plot, Scheme, Machinate, Machination, Macerate, Cabal, Scornful, Disdainful,  Contemptuous, Scorn, Contempt, Disdain, Contemptible, Ignoble, Despicable, Noble 
+43. Sinister, Susceptible, Impressionable, Pliant, Pliable, Tribulation, Affliction, Throes, Adversity, Privation,  Diatribe, Tirade, Harangue
+44. Tribunal, Terrific, Malleable, Ductile, Daunting, Dauntless, Intrepid, Trepidation, Apprehension,  Misapprehension 
+45. Apprehend, Gruesome, Grisly, Macabre, Ghastly, Ghostly, Appalling, Appall, Intricate, Complex, Involved,  Labyrinth, Complexity, Maze, Labyrinthine, Convoluted, Spare, Sparing,  
+46. Ingress, Egress, Regress, Retrogress, Digress, Retort, Rejoinder, Extort, Repartee, Contort, Distort, Protrude 
+47. Extrude, Intrude, Interlope, Trespass, Gratify, Intruder, Trespasser, Interloper, Juxtapose, Wag, Waggish,  Superimpose, Interpose, Depose, Repose, Impose
+W3, W4, L6, L7 
+1. Startling, Facet, Multifaceted, Temperament, Disposition, Somber, Saturnine, Brunch, Farce, Farcical, Soggy 
+2. Bedraggled, Tidy, Untidy, Lukewarm, Tepid, Vapid, Infallibility, Fallible, Infallible, Unerring, Criticism,  Acreage, Fallow, Hallow 
+3. Sallow, Callow, Shallow, Wallow, Yield, Unyielding, Ambiguous, Ambivalent, Equivocal, Unequivocal 
+4. Equivocate, Waffle, Stuffed with, Stuffed, Intimation, Intimate, Inking, Frantic, Thriller, Apolitical, Devise,  Excogitate, Cogitate, Restate, Paraphrase, Plutocracy 
+5. Challenging, Challenge, Unchallenged, Vegetate, Neophyte, Tyro, Novice, Fledgling, Obstreperous,  Boisterous 
+6. Placid, Evince, Negate, Abnegate, Revoke, Repeal, Rescind, Candid, Outspoken, Upfront, Candid photograph,  Candor, Affront, Commandeer, Innocuous 
+7. Pernicious, Detrimental, Deleterious, Debacle, Fiasco, Rout, Persist, Proximate, Ellipsis, Virtually, Virtual,  Virtuous, Virtue, By virtue of, By dint of 
+8. Virtuoso, Virtuosity, Eminent, Eminence, Orator 
+9. Superficial, Abrogate, Annul, Nullify, Irrevocable, Provoke, Unprovoked, Convoke, Evoke, Invoke 
+10. Improvise, Temporize, Extemporize, Procrastinate, Expedite, Extemporaneous, Offhand, Impromptu,  Chastise, Castigate, Lambaste, Excoriate, Upbraid, Chasten, Mordant, Fortuitous, Dissuade, Discredit 
+11. Vilify, Vilification, Refute, Repudiate, Disprove, Debunk, Rebut, Confute, Verify, Attest, Cataclysm,  Reverence, Veneration, Revere, Venerate, Venerable, Diffidence, Diffident, Dissident 
+12. Impeccable, Lure, Allure, Entice, Explicate, Expound, Inexplicable, Abominable, Abominable snowman,  Bigfoot, Aboriginal, Native, Indigenous, Loathe, Loath, Detest, Despise, Abhor, Abominate 
+13. Compromise, Invaluable, Nugatory, Bootless, Futile, Pointless, Vainglorious, Abortive, Failed, Unsuccessful,  Bootlegged, Conspicuous, Inconspicuous, Cicatrix, Perspicuous, Perspicuity 
+14. Vain, Premature, Prolix, Laconic, Lexicon, Succinct, Prolixity, Verve, Gusto, Gust, Lexicographer, Dyslexia,  Dyslexic, Verbatim, Gusty, Stew 
+15. Detestable, Verbalize, Ineffable, Sham, Pervasive, Precocious, Precocity, Anoint, Placate, Pacify, Mollify,  Allay, Appease, Propitiate, Assuage, Soothe 
+16. Mitigate, Alleviate, Unmitigated, Abate, Rebate, Irate, Ire, Irascible, Implacable, Warmonger, Pacifist,  Propitious, Unpropitious, Slake, Satiate, Sate 
+17. Insatiable, Quench, Satiable, Untoward, Subtle, Explicit, Implicit, Nuance, Nuanced 
+18. Syntax, On the horizon, At hand, Hand, Handy, Invert, Reverse, Avert, Revert, Pervert, Subvert, Motif, Pith,  Pithy 
+19. Crux, Gist, Motive, Intent, Modicum, Iota, Scintilla, Scintillate, Mote, Foreground, Fathom, Fathomable,  Unfathomable 
+20. Prolific, Proliferate, Wane, Wax, On the wane, Wax and wane, Wan, Squander, Reckless, Wary, Feckless 
+21. Squalor, Squalid, Confront, Dichotomy, Ascribed to, Rhetorical question, Rhetoric, Rhetorical, On its face,  Absurd, Risible, Preposterous, Prodigy, Protégé, Masterpiece, Opus, Work
+22. Preternatural, Supernatural, Conductor, Orchestra, Enduring, Abiding, Indissoluble, At odds ___ with, Odds  maker, Critical, Critical core, Pressing, Exigent 
+23. Exigency, Dire, Prodigious, Prodigal, Prodigal son/daughter, Say, Acknowledge, Put it, Milieu, Melee, Fray, Ill timed, Invading, Rampant, Sweeping 
+24. Battery of, Toxic, Resilient, Dilute, Dilate, Once, Displace, Supplant, Supersede, Give way to, Revise, Clover,  Exacerbate, Aggravate, Fester, Consequence, Boom, Boon 
+25. Dramatic, Dictate, Influx, Exodus, Striking, Profound, Appeal, Privileged, Modest, Dignity 
+26. Apothegm, Dictum, Proverb, Adage, Maxim, Aphorism, Witticism, Proverbial, Aphoristic, Content,  Malcontent, Contentment, Gloat, Glut, Glutton, Gossip, Piquant 
+27. Ubiquitous, Sparse, Elated, Crestfallen, Dejected, Despondent, Disconsolate, Downcast, Elation, Ebb, Flag,  Damp, Dampen, Unflagging, Flagging, Listless 
+28. Sap, Pundit, Pandit, Pedagogue, Pedagogy, Demagogue, Demotic, Mock, Lampoon, Malign, Malicious,  Malevolent, Malignant, Malice 
+29. Languid, Harbor, Avant-garde, New-avant-garde, Stipulate, Utter, Arrant, Cow, Cower, Cringe 
+30. Corner, Dour, Insolent, Impudent, Surly, Churlish, Boorish, Churl, Entreaty, Retreat, Entreat, Exasperation,  Personify, Personification, Epitome, Model, Paragon, Paradigm 
+31. Paradigm shift, Trumpet, Variegated, Checkered, Appetite, Jeopardize, Curb, Ground-breaking, Voluminous,  Tarry, Parry, Ward off 
+32. Imperious, Imperial, Empirical, Resplendent, Gaudy, Garish, Considerate, Inconsiderate, Garnish, Tarnish,  Untarnished, Tarnished, Smug, Vapid, Disgruntled 
+33. Definitive, Wrath, Wrathful, Ecstatic, Ecstasy, Sagacious, Sagacity, Portentous
+W4, L3 
+1. Locust, Invasion, Admonish, Withering, Offensive, Crude, Vulgar, Demanding, Rich, Robust 
+2. Flaunt, Flout, Spurn, Affluence, Affluent, Opulent, Opulence, Splendor, Majesty, Magnificence, Gild, To gild  lily, Summon, Regal, Regale, Synthetic 
+3. Gale, Plastic, Precede, Shrewdness, Polemic, Polemical, Deceptive, Vocal, Belie, Overshadow, Judicious,  Injudicious, Account 
+4. Bureaucracy, Eclipse, Bolster, Degrade, Uncritically accept, Appropriately acknowledge, Hotly dispute,  Complementary, Intrinsic, Inherent, Peripheral, Acute 
+5. Aboveboard, Intriguing, Intrigue, Quisling, Extraneous, Merely, Mere, Convey, Entail, Arduous, Repress,  Phenomenon 
+6. Graceful, Gracious, Precise, Hobble, Aggrieve, Whim, Sense of whimsy, Quackery, Clairvoyant, Garner,  Approbation, Disapprobation, Dementia, Demented, Simpatico, Preordained 
+7. Ominous, Insouciant, Nonchalant, Emblem, Emblematic, Grandiloquent, Grandiose, Pragmatic, Unpragmatic,  Bombastic, Pompous, Magniloquent, Eloquent, Ineloquent, Compelling, Obliging 
+8. Becoming, Unbecoming, Comely, Fair, Savory, Unsavory, Savvy, Shrewd, Canny, Astute, Insightful,  Perspicacious, Uncanny, Mendacious, Mendacity, Probity, Sophomoric, Quiescent 
+9. Virulent, Hoi-polloi, Aristocrat, Literati, Emulate, Mimic, Ponderous, Ponder, Imponderable, Pigment,  Figment, Forlorn, Forlorn hope 
+10. Lovelorn, Indolent, Desolate, Unanimous, Unanimity, Magnanimous, Munificent, Docile, Facile, Conformist,  Maverick 
+11. Conformity, Retribution, Pillory, Comprehensive, Compendium, Coda, Condign, Punitive, Capitulate,  Recapitulate, Laconic, Querulous, Miracle, Ambulatory 
+12. Miraculous, Occult, Omnipotent, Potent, Impotent, Virile, Manly, Rile, Efficacious, Efficacy, Merciful,  Merciless, Irksome, Onerous, Efficient 
+13. Lenient, Effectual, Ineffectual, Pertinent, Impertinent, Stroll, Perambulate, Saunter, Amble, Abscond,  Decamp, Gambol, Circumambulate, Trudge 
+14. Peregrinate, Decapitate, Adversary, Martinet, Capital punishment, Impunity, Denouement, Aversion, Sprint,  Leniency, Peripatetic, Frivolous, Frivolity
+L4, L5 
+1. Credible, Articulate, Inarticulate, Coherence, Cohesion, Arbitrator, Sway, Accord, Recount, Presumption,  Cause 
+2. Shock, Quandary, Erode, Palliate, Abstemious, Lascivious, Purge, Purgative, Expurgate, Run-of-the-mill,  Discreet 
+3. Discrete, Incessant, Unprecedented, Precede, Antecede, Ensue, Ensued by, Precedent, Antecedent,  Precedence, Cede, Incorrigible, Incorruptible, Bemoan, Hide-bound 
+4. Hideous, Heinous, Flagitious, Lucrative, Venal, Lucre, Payola, Graft, Venial, Equinox, Vernal, Embezzlement,  Defalcation, Embezzle, Defalcate 
+5. Dearth, Paucity, Pauper, Impoverish, Horde, Hoard, Amass, Amiss, Remiss, Pecuniary, Impecunious,  Destitute, Opulent 
+6. Opulence, A wealth of, Destitute of, Devoid of, Bereft of, Stripped of, Indigent, Indigence, Indigenous, Stave  off, Affluence, Paucity, Attrition, Tycoon 
+7. Restitution, Mishap, Mischance, Misfortune, Misadventure, Adversity, Throes, Tribulation, Affliction,  Adverse, Guileful, Guileless, Guile, Beguile, Chasm 
+8. Abysmal, Abyss, Dismal, Nominal, Reimburse, Disburse, Indebted, Ingrate, Tony, Prohibitively expensive,  Exorbitant, Posh, Gentrify 
+9. Factotum, Minion, Magnate, Condescend, Patronize, Endow, Cognoscenti, Dominant interests, Maven,  Numismatist, Philatelist, Mercenary, Gallant, Gallantry 
+10. Diatribe, Tirade, Harangue, Elegy, Elegiac, Titled, Amuse, Bemuse, Muse, Contemplate, Cogitate, Meditate,  Mull over, Ponder, Ruminate, Masticate, Eschew, Forego 
+11. Amaze, Astonish, Astound, Shake, Stun, To be taken aback, Cognate, Humble, Addle-pated, Hortatory,  Exhort, Dishearten, Hearten, To add spirit 
+12. Heartless, Atrocious, Atrocity, Abase, Abase oneself 
+13. Dilemma, Propaganda, Hoax, Pell-mell, Coax, Wheedle, Blandish, Cajole, Marked, Gratify, Gratification,  Extant, Extinct, Non-existent, Obsequies 
+14. Obsequious, Morbid, Obese, Corpulent, Skeptical, Skeptic, Dissonant, Consonant, Incendiary, Allegation 
+15. Resonant, Repetitious, Original, Exacting, Taxing, Demanding, Grueling, Exact a toll, Exploit 
+16. Maintain, Lumber, Appellation, Epithet, Disparage, Derogate, Slumber, Betroth, Troth, Marriage,  Combingling, Divorce, Fitful 
+17. Formidable, Drowsy, Nap, Drudgery, Replenish, Replete, Doze, Deplete, Soporific, Affable 
+18. Amiable, Somnolent, Somniferous, Sedate, Sedative, Serene, Serenity, Somnambulist, Somniloquist,  Insomnia, Amicable, Amenable 
+19. Recalcitrant, Amity, Refractory, Forward, Refectory, Dormitory, Nepotism, Foe, Relativism, Crony, Cronyism,  Befriend, Engage, Disengage 
+20. Engaging, Enamored, Hooked on, Amorous, Platonic, Amenity, Amnesty, Dissident, Inanity, Fatuity, Inane,  Fatuous, Oafish, Doltish, Dolt, Oaf, Moron
+21. Libertarian, Libertine, Wanton, Philanderer, Elicit, Illicit, Paramour, Cad, Infatuated, Besotted, Connubial,  Nubile, Nuptial 
+22. Enthrall, Thrall, Assignation, Tryst, Covert, Overt, At liberty, Provident, Improvident, Providential, Inimical,  Temperate, Demonstrative, Undemonstrative, Panache 
+23. Inimical to, Licentious, Libidinous, Libido, Redoubtable, Depravity, Prurient, Puritanical, Lassitude, Latitude,  Leery, Leer, Ogle, Promiscuous, Dissolution 
+24. Reprobate, Dissolute, Rake, Debauched, Debauchery, Debauchment, Repugnance, Repugnant,  Reprehensible, Culpable, Thrifty, Frugal, Thrift, Frugality, Frugal meal, Repast, Victuals, Viand 
+Practice Tests 
+1. Elegant, Inelegant, Empirical, Tenet, Axiomatic, Excruciating, Fatal, Opt of, Apt, Apt to, Alarming, Fictional 
+2. Faction, Abandon, Impartiality, Presumptive, Allegory, Acquisition, Giant, Aloof from, Amateurism,  Contemporary, Stature, Meteoric, Characterized, Dynamic, Note 
+3. Concomitant, Sustained, Gloomy, Glow with, Sunny 
+4. Accretion, Accrue, Collision, Devoid of, Costly, Forfeit, Forage, Impair, Subcutaneous, Scholarship, Research,  Lucubration, Lucubrate, Lugubrious, Counterpoint 
+5. Addictive, Anemic, Antagonist, Antagonistic, Antagonize, Protagonist, Benign, Benignant, Befog, Tax,  Muddle, Addle, Puddle, Befuddle, Muddy 
+6. Cabal, Hegemony, Imprecation, Imprecate, Mutter, Plucky, Take pluck, Ribald, Bald, Coarse, Traitorous 
+7. Traitor, Turncoat, Politic, Impolitic, Treacherous, Innocuous, Conspicuous, Menacing, Minatory, Distinctive,  Charisma, Technical, Prowess, Invigorate, Innervate 
+8. Gray, Tired, Novelty, Yearn, Long, Yearning, Longing, Yen, Discernible, Discriminating, Cherished, Relish,  Disquiet, Endorse 
+9. Ignominious, Berate, Obscurity, Indifference, Mystique, Fraudulent, Apocryphal, Apocrypha, Canon,  Canonize, Opus 
+10. Reinvent, Refurbish, Undo, Replicate, Plethora, Inflated, Receptive, Unreceptive, Accede 
+11. Aquifer, Porous, Imporous, Pore over, Tome, Feasible, Practicable, Viable, Infeasible, Defeasible, Remedial,  Code of ethics, Shore up, Standing, Electorate, Beset, Besiege 
+12. Trade something for, Aloof, Placid, Restive, Skittish, Tranquil, Vociferous, Consensus, Pact, Commonplace,  Platitude, Cliché, Disparate
+13. Disparity, Parity, On par with, Disparage, Divergent, Opera, Aria, Tempo, Arbitrary, Capricious, Compelling,  Exacting, Meticulous 
+14. Presume, Cynical, Cynic, Conviction, Rationality, Diffidence, Disinterested, Sincere, Insincere, Scrupulous,  Unscrupulous, Entrench, Distort 
+15. Objective, Comprehensive, Comprehensible, Incomprehensible, Redundant, Incipient, Inchoate, Row,  Accord, Discord 
+16. Predicament, Heated debate, Demeanor, Misdemeanor, Cognizant, Incognizant, Partial, Phlegmatic,  Conciliatory, Cantankerous, Peevish, Inscrutable, Contentious, Draconian 
+17. Intermittent, Occasional, Sporadic, Legitimate, Illegitimate, Prolocutor, Despot, Despotic, Figurehead,  Absolute, Monarch, Sovereign, Reign 
+18. Invidious, Insidious, Disingenuous, Clandestine, Devious, Portend, Portent, Portentous 
+19. Authorize, Foresee, Hypothesize, Contend, Savor, Relish, Revitalize, Extol, Deprecate, Belittle, Pejorate,  Derogate, Demean 
+20. Deprecatory, Derogatory, Disparaging, Pejorative, Depredate, Depredation, Renounce, Denounce, Deplore,  Spurn, Flout, Countenance, Discountenance, Eulogy, Eulogize, Eulogistic 
+21. Stalwart, Steadfast, Precarious, Stout, Irrefragable, Totter, Fecund, Fecundity, Distinctive, Strive, Dictate,  Caprice 
+22. Aesthetic, Incur, Kudos, Obligation, Recompense, Obloquy, Giant, Gigantic, Amateur, Stigma 
+23. Stigmatize, Stigmatization, Lionize, Leonine, Lion hearted, Chicken hearted, Lion’s share, Marginalize,  Foreground, Transcend, Obscure, Latitude, Materialism 
+24. Impetuous, Headlong, Plod, Sporadic, Strained, Fragile, Apogee, Acme, Pinnacle, Apex, Vertex, Zenith, Nadir,  Epiphany 
+25. Diaphanous, Impasse, Stalemate, Passé, Capitulate, Regress, Progress, Impugn, Acrimony, Cacophony,  Euphony, Sinecure, Dissolution, Orthodox, Unorthodox, Heterodox 
+26. Clerical, Civil, Cerebral, Cerebration, Cerebrate, Antinomian, Inevitable, Ineluctable, Radical, Piety, Impiety,  Secular, Secular priest

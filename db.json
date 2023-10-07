@@ -1,0 +1,3616 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2022-07-16T15:18:57.639Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "1",
+      "object_repr": "A self-motivated and independent Computer Engineer with 2+ year of professional and 2+ years of non-professional experience in core Python, JavaScript, R and different tech stacks in software developm",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2022-07-16T15:19:14.328Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "2",
+      "object_repr": "Strong knowledge of OOP, and MVC pattern with industry experience in PyQt/PySide, React ecosystem, Django, and REST APIs.",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2022-07-16T15:19:26.172Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "3",
+      "object_repr": "Good working experience of Python's DS stack: pandas, NumPy, and some exposure to data science and clinical data, with good command over regular expressions, and some academic experience with machine ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2022-07-16T15:19:50.008Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "3",
+      "object_repr": "Good working experience of Python's DS stack: pandas, NumPy, and some exposure to data science and clinical data, with good command over regular expressions, and some academic experience with machine ",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Order\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2022-07-16T15:19:58.854Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "1",
+      "object_repr": "A self-motivated and independent Computer Engineer with 2+ year of professional and 2+ years of non-professional experience in core Python, JavaScript, R and different tech stacks in software developm",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2022-07-16T15:20:09.871Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "2",
+      "object_repr": "Strong knowledge of OOP, and MVC pattern with industry experience in PyQt/PySide, React ecosystem, Django, and REST APIs.",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Order\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2022-07-16T15:20:46.703Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "1",
+      "object_repr": "Programming Languages",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2022-07-16T15:20:56.716Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "2",
+      "object_repr": "SQL and Databases",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2022-07-16T15:21:03.132Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "3",
+      "object_repr": "Frontend",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2022-07-16T15:21:06.899Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "4",
+      "object_repr": "Backend",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2022-07-16T15:21:17.187Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "5",
+      "object_repr": "AI/ML/DS Stack",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2022-07-16T15:21:31.468Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "6",
+      "object_repr": "VCS & Repository Management",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2022-07-16T15:21:40.609Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "7",
+      "object_repr": "Machine Learning",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2022-07-16T15:21:53.952Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "8",
+      "object_repr": "Software Engineering Principles",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2022-07-16T15:22:24.785Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "1",
+      "object_repr": "Good communication skill",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2022-07-16T15:22:32.807Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "2",
+      "object_repr": "Self dedicated, and quick to learn",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2022-07-16T15:22:40.055Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "3",
+      "object_repr": "Accuracy, thorough and attention to details",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2022-07-16T15:22:46.775Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "4",
+      "object_repr": "Time management, and problem solving",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2022-07-16T15:22:54.323Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "5",
+      "object_repr": "Team work, collaboration, and leadership",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2022-07-16T15:23:19.791Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Python",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2022-07-16T15:23:39.082Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "JavaScript",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2022-07-16T15:24:00.967Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "3",
+      "object_repr": "Java",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2022-07-16T15:24:24.491Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "4",
+      "object_repr": "C/C++",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2022-07-16T15:24:34.920Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "5",
+      "object_repr": "SQLite",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2022-07-16T15:24:47.499Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "6",
+      "object_repr": "MySQL",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2022-07-16T15:25:05.127Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "7",
+      "object_repr": "PostgreSQL",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2022-07-16T15:25:15.142Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "8",
+      "object_repr": "Oracle DB",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2022-07-16T15:25:34.337Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "9",
+      "object_repr": "PyQt/PySide (Desktop)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2022-07-16T15:25:46.338Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "10",
+      "object_repr": "HTML",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2022-07-16T15:25:53.490Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "11",
+      "object_repr": "CSS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2022-07-16T15:26:15.460Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "12",
+      "object_repr": "JavaScript",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2022-07-16T15:26:29.190Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "13",
+      "object_repr": "React JS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2022-07-16T15:26:42.920Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "14",
+      "object_repr": "Redux JS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2022-07-16T15:26:55.190Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "15",
+      "object_repr": "Redux-Thunk",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2022-07-16T15:27:03.941Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "16",
+      "object_repr": "Axios",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2022-07-16T15:27:16.949Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "17",
+      "object_repr": "Ant Design",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2022-07-16T15:27:30.499Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "18",
+      "object_repr": "Django",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2022-07-16T15:27:43.677Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "19",
+      "object_repr": "Django Rest Framework",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2022-07-16T15:27:56.260Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "20",
+      "object_repr": "Pandas",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2022-07-16T15:28:06.999Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "21",
+      "object_repr": "Regular Expressions",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2022-07-16T15:28:20.433Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "22",
+      "object_repr": "Numpy",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2022-07-16T15:28:31.473Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "23",
+      "object_repr": "Keras",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2022-07-16T15:28:59.813Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "24",
+      "object_repr": "Scikit learn",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2022-07-16T15:29:15.078Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "25",
+      "object_repr": "Tableau",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2022-07-16T15:29:22.559Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "26",
+      "object_repr": "R",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2022-07-16T15:29:47.246Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "27",
+      "object_repr": "Git",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2022-07-16T15:29:57.081Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "28",
+      "object_repr": "GitHub",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2022-07-16T15:30:07.029Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "29",
+      "object_repr": "Bitbucket",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2022-07-16T15:30:28.567Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "30",
+      "object_repr": "Neural Network",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2022-07-16T15:30:42.605Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "31",
+      "object_repr": "LSTM RNN",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2022-07-16T15:30:50.365Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "32",
+      "object_repr": "CNN",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2022-07-16T15:31:01.669Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "33",
+      "object_repr": "OOP",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2022-07-16T15:31:11.561Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "34",
+      "object_repr": "MVC",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2022-07-16T15:31:22.081Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "35",
+      "object_repr": "Design Patterns",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2022-07-16T15:31:31.568Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "36",
+      "object_repr": "REST",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2022-07-16T15:31:40.530Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "37",
+      "object_repr": "Agile",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2022-07-16T15:31:50.280Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "38",
+      "object_repr": "SDLC",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2022-07-16T15:32:13.470Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "9",
+      "object_repr": "Issue Management, and Documentation",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2022-07-16T15:32:21.924Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "39",
+      "object_repr": "JIRA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2022-07-16T15:32:31.599Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "40",
+      "object_repr": "Trello",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2022-07-16T15:32:41.014Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "41",
+      "object_repr": "Confluence",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2022-07-16T15:32:50.548Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "42",
+      "object_repr": "MS Office",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+      "action_time": "2022-07-16T15:33:45.101Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Mobile: +977-98-455-32932",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+      "action_time": "2022-07-16T15:33:56.446Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Email: er.bikhyat@gmail.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+      "action_time": "2022-07-16T15:34:30.041Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "LinkedIn: https://www.linkedin.com/in/bkhyat/",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+      "action_time": "2022-07-16T15:34:48.594Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "GitHub: https://github.com/bkhyat",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+      "action_time": "2022-07-16T15:35:09.013Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Stackoverflow: https://stackoverflow.com/users/9136348/thepyguy?t",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+      "action_time": "2022-07-16T15:37:45.611Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "Bachelor, Computer Engineering at Tribhuvan University (IOE)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+      "action_time": "2022-07-16T15:39:04.224Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "High School, +2 Science at HSEB, Nepal Govt",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+      "action_time": "2022-07-16T15:42:22.743Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "Python Django Developer at Dentistry Explorer Pvt. Ltd.",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"experience description\", \"object\": \"0 - Redesigned the existing WordPress website and wrote requirements to migrate to Python Django based server-client application.\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"1 - Designed all the backends and data models for the application, and assigned tasks to individual developers\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"2 - Mostly worked on the backend functionality, and data validation, integrity, and security of the application\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"3 - Implemented Esewa online payment gateway API\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"4 - Integrated both the backends and frontends, and managed GitHub repository\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+      "action_time": "2022-07-16T15:45:16.312Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "Software Engineer at Numeric Mind Pvt. Ltd.",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"experience description\", \"object\": \"0 - Defined coding convention and git workflows to be used in organization which improved productivity, readability, maintainability, and the quality\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"1 - Designed and developed core features of a sophisticated data analytics and visualization tool; creating CDISC frequency count, and summary statistics reports, deriving variable,  and dataset from a da\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"2 - Wrote functions to read/write and parse different data formats including XML, JSON, Excel, CSV, SAS, parquet in Python, and implemented and optimized pseudo caching at application level\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"3 - Wrote several optimized SQL queries for SQLite database operations\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"4 - Assisted in different recruitments by shortlisting and taking the technical interviews of several applicants\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"5 - Performed benchmarks for different requirements, and libraries\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+      "action_time": "2022-07-16T15:48:19.139Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "Software Engineer & Team Lead at Numeric Mind Pvt. Ltd.",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"experience description\", \"object\": \"0 - Led a team of 10 developers to develop RESTful application on Django, R, and React ecosystem (react JS, redux JS, redux-thunk, etc).\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"1 - Designed, and documented architecture, data models, and end points specification of the applications using visio, draw.io, and confluence\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"2 - Actively worked as a full-stack developer, reviewed other developers' code, managed bitbucket repositories, and documented the work\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"3 - Mainly worked in desktop, and web based RESTful data analytics, Visualization and reporting applications for pharmaceutical industry\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"4 - Closely worked with client from US, for requirement analysis, system design, and strategic planning\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"5 - Set up the job descriptions/requirements, and conducted technical interviews for different openings in the organization\"}}, {\"added\": {\"name\": \"experience description\", \"object\": \"6 - Performed POC, feasibility tests, and benchmarks for different requirements, libraries, and frameworks\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+      "action_time": "2022-08-04T20:45:32.734Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Stackoverflow: https://stackoverflow.com/users/9136348",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Contact info\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+      "action_time": "2022-08-04T22:09:33.563Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "Music",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+      "action_time": "2022-08-04T22:09:39.871Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "2",
+      "object_repr": "Dancing",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+      "action_time": "2022-08-04T22:09:46.095Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "3",
+      "object_repr": "Cooking",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+      "action_time": "2022-08-04T22:09:57.439Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "4",
+      "object_repr": "Travelling",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+      "action_time": "2022-08-04T22:17:09.001Z",
+      "user": 1,
+      "content_type": 20,
+      "object_id": "1",
+      "object_repr": "1 - 315k+ views on Quora Articles",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+      "action_time": "2022-08-04T22:17:47.971Z",
+      "user": 1,
+      "content_type": 20,
+      "object_id": "2",
+      "object_repr": "2 - 700+ Python answer & 13K+ reputation on stackoverflow",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2022-08-04T22:18:08.068Z",
+      "user": 1,
+      "content_type": 20,
+      "object_id": "3",
+      "object_repr": "3 - Merit based full scholarship for BE Computer",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2022-08-04T22:18:33.807Z",
+      "user": 1,
+      "content_type": 20,
+      "object_id": "4",
+      "object_repr": "4 - Active member, and blood donor of BORN",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2022-08-04T22:19:56.538Z",
+      "user": 1,
+      "content_type": 19,
+      "object_id": "1",
+      "object_repr": "1 - Engineering License",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2022-08-04T22:29:23.668Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "4",
+      "object_repr": "4 - Chicken Price Prediction using LSTM RNN - 2018-11-01",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2022-08-04T22:32:16.028Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "5",
+      "object_repr": "5 - Optical Alphanumeric Character Recognition using CNN - 2019-11-01",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add to do",
+      "content_type": 7,
+      "codename": "add_todo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change to do",
+      "content_type": 7,
+      "codename": "change_todo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete to do",
+      "content_type": 7,
+      "codename": "delete_todo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view to do",
+      "content_type": 7,
+      "codename": "view_todo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add nav items",
+      "content_type": 8,
+      "codename": "add_navitems"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change nav items",
+      "content_type": 8,
+      "codename": "change_navitems"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete nav items",
+      "content_type": 8,
+      "codename": "delete_navitems"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view nav items",
+      "content_type": 8,
+      "codename": "view_navitems"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add contact",
+      "content_type": 9,
+      "codename": "add_contact"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change contact",
+      "content_type": 9,
+      "codename": "change_contact"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete contact",
+      "content_type": 9,
+      "codename": "delete_contact"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view contact",
+      "content_type": 9,
+      "codename": "view_contact"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add education",
+      "content_type": 10,
+      "codename": "add_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change education",
+      "content_type": 10,
+      "codename": "change_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete education",
+      "content_type": 10,
+      "codename": "delete_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view education",
+      "content_type": 10,
+      "codename": "view_education"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add experience",
+      "content_type": 11,
+      "codename": "add_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change experience",
+      "content_type": 11,
+      "codename": "change_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete experience",
+      "content_type": 11,
+      "codename": "delete_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view experience",
+      "content_type": 11,
+      "codename": "view_experience"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add interest",
+      "content_type": 12,
+      "codename": "add_interest"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change interest",
+      "content_type": 12,
+      "codename": "change_interest"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete interest",
+      "content_type": 12,
+      "codename": "delete_interest"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view interest",
+      "content_type": 12,
+      "codename": "view_interest"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add profile",
+      "content_type": 13,
+      "codename": "add_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change profile",
+      "content_type": 13,
+      "codename": "change_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete profile",
+      "content_type": 13,
+      "codename": "delete_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view profile",
+      "content_type": 13,
+      "codename": "view_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+      "name": "Can add soft skill",
+      "content_type": 14,
+      "codename": "add_softskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+      "name": "Can change soft skill",
+      "content_type": 14,
+      "codename": "change_softskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+      "name": "Can delete soft skill",
+      "content_type": 14,
+      "codename": "delete_softskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+      "name": "Can view soft skill",
+      "content_type": 14,
+      "codename": "view_softskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+      "name": "Can add tech skill category",
+      "content_type": 15,
+      "codename": "add_techskillcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+      "name": "Can change tech skill category",
+      "content_type": 15,
+      "codename": "change_techskillcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+      "name": "Can delete tech skill category",
+      "content_type": 15,
+      "codename": "delete_techskillcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+      "name": "Can view tech skill category",
+      "content_type": 15,
+      "codename": "view_techskillcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+      "name": "Can add tech skill",
+      "content_type": 16,
+      "codename": "add_techskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+      "name": "Can change tech skill",
+      "content_type": 16,
+      "codename": "change_techskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+      "name": "Can delete tech skill",
+      "content_type": 16,
+      "codename": "delete_techskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+      "name": "Can view tech skill",
+      "content_type": 16,
+      "codename": "view_techskill"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+      "name": "Can add experience description",
+      "content_type": 17,
+      "codename": "add_experiencedescription"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+      "name": "Can change experience description",
+      "content_type": 17,
+      "codename": "change_experiencedescription"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+      "name": "Can delete experience description",
+      "content_type": 17,
+      "codename": "delete_experiencedescription"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+      "name": "Can view experience description",
+      "content_type": 17,
+      "codename": "view_experiencedescription"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+      "name": "Can add projects",
+      "content_type": 18,
+      "codename": "add_projects"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+      "name": "Can change projects",
+      "content_type": 18,
+      "codename": "change_projects"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+      "name": "Can delete projects",
+      "content_type": 18,
+      "codename": "delete_projects"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+      "name": "Can view projects",
+      "content_type": 18,
+      "codename": "view_projects"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 73,
+    "fields": {
+      "name": "Can add courses and certifications",
+      "content_type": 19,
+      "codename": "add_coursesandcertifications"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 74,
+    "fields": {
+      "name": "Can change courses and certifications",
+      "content_type": 19,
+      "codename": "change_coursesandcertifications"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 75,
+    "fields": {
+      "name": "Can delete courses and certifications",
+      "content_type": 19,
+      "codename": "delete_coursesandcertifications"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 76,
+    "fields": {
+      "name": "Can view courses and certifications",
+      "content_type": 19,
+      "codename": "view_coursesandcertifications"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 77,
+    "fields": {
+      "name": "Can add achievements",
+      "content_type": 20,
+      "codename": "add_achievements"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 78,
+    "fields": {
+      "name": "Can change achievements",
+      "content_type": 20,
+      "codename": "change_achievements"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 79,
+    "fields": {
+      "name": "Can delete achievements",
+      "content_type": 20,
+      "codename": "delete_achievements"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 80,
+    "fields": {
+      "name": "Can view achievements",
+      "content_type": 20,
+      "codename": "view_achievements"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 81,
+    "fields": {
+      "name": "Can add achievement",
+      "content_type": 20,
+      "codename": "add_achievement"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 82,
+    "fields": {
+      "name": "Can change achievement",
+      "content_type": 20,
+      "codename": "change_achievement"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 83,
+    "fields": {
+      "name": "Can delete achievement",
+      "content_type": 20,
+      "codename": "delete_achievement"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 84,
+    "fields": {
+      "name": "Can view achievement",
+      "content_type": 20,
+      "codename": "view_achievement"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 85,
+    "fields": {
+      "name": "Can add courses and certification",
+      "content_type": 19,
+      "codename": "add_coursesandcertification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 86,
+    "fields": {
+      "name": "Can change courses and certification",
+      "content_type": 19,
+      "codename": "change_coursesandcertification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 87,
+    "fields": {
+      "name": "Can delete courses and certification",
+      "content_type": 19,
+      "codename": "delete_coursesandcertification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 88,
+    "fields": {
+      "name": "Can view courses and certification",
+      "content_type": 19,
+      "codename": "view_coursesandcertification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 89,
+    "fields": {
+      "name": "Can add project",
+      "content_type": 18,
+      "codename": "add_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 90,
+    "fields": {
+      "name": "Can change project",
+      "content_type": 18,
+      "codename": "change_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 91,
+    "fields": {
+      "name": "Can delete project",
+      "content_type": 18,
+      "codename": "delete_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 92,
+    "fields": {
+      "name": "Can view project",
+      "content_type": 18,
+      "codename": "view_project"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 93,
+    "fields": {
+      "name": "Can add Token",
+      "content_type": 21,
+      "codename": "add_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 94,
+    "fields": {
+      "name": "Can change Token",
+      "content_type": 21,
+      "codename": "change_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 95,
+    "fields": {
+      "name": "Can delete Token",
+      "content_type": 21,
+      "codename": "delete_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 96,
+    "fields": {
+      "name": "Can view Token",
+      "content_type": 21,
+      "codename": "view_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 97,
+    "fields": {
+      "name": "Can add token",
+      "content_type": 22,
+      "codename": "add_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 98,
+    "fields": {
+      "name": "Can change token",
+      "content_type": 22,
+      "codename": "change_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 99,
+    "fields": {
+      "name": "Can delete token",
+      "content_type": 22,
+      "codename": "delete_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 100,
+    "fields": {
+      "name": "Can view token",
+      "content_type": 22,
+      "codename": "view_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 101,
+    "fields": {
+      "name": "Can add time log",
+      "content_type": 23,
+      "codename": "add_timelog"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 102,
+    "fields": {
+      "name": "Can change time log",
+      "content_type": 23,
+      "codename": "change_timelog"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 103,
+    "fields": {
+      "name": "Can delete time log",
+      "content_type": 23,
+      "codename": "delete_timelog"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 104,
+    "fields": {
+      "name": "Can view time log",
+      "content_type": 23,
+      "codename": "view_timelog"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$acMvEufTbGtsjezErnYk3g$ZKTbCX03Dz7wkd8SxuU6olyJK+ahGli1Q45cYiaK1vs=",
+      "last_login": "2022-10-14T10:46:27.762Z",
+      "is_superuser": true,
+      "username": "thepyguy",
+      "first_name": "",
+      "last_name": "",
+      "email": "thepyguy@thepyguy.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-07-16T15:15:29.693Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "todo",
+      "model": "todo"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "nav",
+      "model": "navitems"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "resume",
+      "model": "contact"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "resume",
+      "model": "education"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "resume",
+      "model": "experience"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+      "app_label": "resume",
+      "model": "interest"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+      "app_label": "resume",
+      "model": "profile"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+      "app_label": "resume",
+      "model": "softskill"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+      "app_label": "resume",
+      "model": "techskillcategory"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+      "app_label": "resume",
+      "model": "techskill"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+      "app_label": "resume",
+      "model": "experiencedescription"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 18,
+    "fields": {
+      "app_label": "resume",
+      "model": "project"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 19,
+    "fields": {
+      "app_label": "resume",
+      "model": "coursesandcertification"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 20,
+    "fields": {
+      "app_label": "resume",
+      "model": "achievement"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 21,
+    "fields": {
+      "app_label": "authtoken",
+      "model": "token"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 22,
+    "fields": {
+      "app_label": "authtoken",
+      "model": "tokenproxy"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 23,
+    "fields": {
+      "app_label": "timelogger",
+      "model": "timelog"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "0zxthp3rrjm085sklzfonmcqp7o1gph2",
+    "fields": {
+      "session_data": ".eJxVjEsOwiAYhO_C2pBSqIBL956B_A-QqoGktCvj3aVJF5rMZuabmbcIsK05bC0uYWZxEUqcfjMEesayA35AuVdJtazLjHKvyIM2eascX9ej-3eQoeW-TqAmZXTqOqM33VpiZgeaBnROoWJjh5hQj5bQTmSQWY-eAM3gE4nPF_1_OOE:1ojICx:dL_tsK16u3RyXn07bB8S5Lx0-qCNOKBFD0-0B0OIXeo",
+      "expire_date": "2022-10-28T10:46:27.768Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "3x10pn6wio0702e0ji06qrl114nsjcm7",
+    "fields": {
+      "session_data": ".eJxVjEsOwiAYhO_C2pBSqIBL956B_A-QqoGktCvj3aVJF5rMZuabmbcIsK05bC0uYWZxEUqcfjMEesayA35AuVdJtazLjHKvyIM2eascX9ej-3eQoeW-TqAmZXTqOqM33VpiZgeaBnROoWJjh5hQj5bQTmSQWY-eAM3gE4nPF_1_OOE:1oJhiW:nFiCwv_6xBbbrKYj1lae4Hr6jRnOIFZYpIJW0jq-fAA",
+      "expire_date": "2022-08-18T20:45:16.944Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "am43iftyo20mdvff82wfgtv5fzuh28yi",
+    "fields": {
+      "session_data": ".eJxVjMEOwiAQRP-FsyFUYAGP3v0GsuxSqRpISnsy_rtt0oNe5jDvzbxFxHUpce15jhOLixjE6bdLSM9cd8APrPcmqdVlnpLcFXnQLm-N8-t6uH8HBXvZ1mgSMyA4mz2Q1wowGbZbKAVnYtImKGfCEDDb0TltbB4TKEuetSYlPl_rEjfO:1oCjW0:aSYdKtZle-XEk2_HKtlR0uI6DrOiu5sSyZIiFosCyr0",
+      "expire_date": "2022-07-30T15:15:32.706Z"
+    }
+  },
+  {
+    "model": "todo.todo",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-07-23T09:10:34.808Z",
+      "updated_at": "2022-10-15T08:06:05.209Z",
+      "title": "Hello",
+      "description": "Hib",
+      "is_completed": false,
+      "completed_at": null
+    }
+  },
+  {
+    "model": "todo.todo",
+    "pk": 6,
+    "fields": {
+      "created_at": "2022-07-23T09:10:34.810Z",
+      "updated_at": "2022-10-15T08:05:53.179Z",
+      "title": "Bye",
+      "description": "Bye",
+      "is_completed": true,
+      "completed_at": null
+    }
+  },
+  {
+    "model": "todo.todo",
+    "pk": 8,
+    "fields": {
+      "created_at": "2022-07-23T09:11:47.008Z",
+      "updated_at": "2022-10-15T09:00:23.434Z",
+      "title": "Bye",
+      "description": "Bye",
+      "is_completed": false,
+      "completed_at": null
+    }
+  },
+  {
+    "model": "todo.todo",
+    "pk": 12,
+    "fields": {
+      "created_at": "2022-07-23T16:12:14.277Z",
+      "updated_at": "2022-07-26T16:32:52.228Z",
+      "title": "I hVE TO VISIT PAC ASIA",
+      "description": "Know about the universities.",
+      "is_completed": true,
+      "completed_at": "2022-07-26T22:17:52.228Z"
+    }
+  },
+  {
+    "model": "todo.todo",
+    "pk": 15,
+    "fields": {
+      "created_at": "2022-07-24T11:19:12.206Z",
+      "updated_at": "2022-07-24T11:19:12.206Z",
+      "title": "Hello There!",
+      "description": "New one",
+      "is_completed": false,
+      "completed_at": null
+    }
+  },
+  {
+    "model": "resume.profile",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-07-16T15:18:57.635Z",
+      "updated_at": "2022-07-16T15:19:58.852Z",
+      "user": 1,
+      "value": "A self-motivated and independent Computer Engineer with 2+ year of professional and 2+ years of non-professional experience in core Python, JavaScript, R and different tech stacks in software development, machine learning, data science, and clinical domain.",
+      "order": 0
+    }
+  },
+  {
+    "model": "resume.profile",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-07-16T15:19:14.326Z",
+      "updated_at": "2022-07-16T15:20:09.869Z",
+      "user": 1,
+      "value": "Strong knowledge of OOP, and MVC pattern with industry experience in PyQt/PySide, React ecosystem, Django, and REST APIs.",
+      "order": 1
+    }
+  },
+  {
+    "model": "resume.profile",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-07-16T15:19:26.170Z",
+      "updated_at": "2022-07-16T15:19:50.005Z",
+      "user": 1,
+      "value": "Good working experience of Python's DS stack: pandas, NumPy, and some exposure to data science and clinical data, with good command over regular expressions, and some academic experience with machine learning, neural networks, and computer vision.",
+      "order": 2
+    }
+  },
+  {
+    "model": "resume.experience",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-07-16T15:42:22.722Z",
+      "updated_at": "2022-07-16T15:42:22.722Z",
+      "user": 1,
+      "designation": "Python Django Developer",
+      "organization": "Dentistry Explorer Pvt. Ltd.",
+      "address": "Kathmandu, Nepal",
+      "job_type": "Contract",
+      "job_model": "Remote",
+      "start_date": "2020-08-01",
+      "end_date": "2020-11-30",
+      "skills": [
+        1,
+        2,
+        7,
+        10,
+        11,
+        12,
+        18,
+        27,
+        28,
+        33,
+        34,
+        40
+      ]
+    }
+  },
+  {
+    "model": "resume.experience",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-07-16T15:45:16.294Z",
+      "updated_at": "2022-07-16T15:45:16.294Z",
+      "user": 1,
+      "designation": "Software Engineer",
+      "organization": "Numeric Mind Pvt. Ltd.",
+      "address": "Bhatbhateni, kathmandu",
+      "job_type": "Full Time",
+      "job_model": "Hybrid (Onsite + Remote)",
+      "start_date": "2020-11-23",
+      "end_date": "2021-10-30",
+      "skills": [
+        1,
+        2,
+        5,
+        9,
+        10,
+        11,
+        20,
+        21,
+        22,
+        27,
+        28,
+        33,
+        34,
+        35,
+        37,
+        38,
+        39,
+        41
+      ]
+    }
+  },
+  {
+    "model": "resume.experience",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.120Z",
+      "updated_at": "2022-07-16T15:48:19.120Z",
+      "user": 1,
+      "designation": "Software Engineer & Team Lead",
+      "organization": "Numeric Mind Pvt. Ltd.",
+      "address": "Bhatbhateni, kathmandu",
+      "job_type": "Full Time",
+      "job_model": "Hybrid (Onsite + Remote)",
+      "start_date": "2021-11-01",
+      "end_date": null,
+      "skills": [
+        1,
+        2,
+        7,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        26,
+        27,
+        29,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42
+      ]
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-07-16T15:42:22.737Z",
+      "updated_at": "2022-07-16T15:42:22.737Z",
+      "user": 1,
+      "bullet": "Redesigned the existing WordPress website and wrote requirements to migrate to Python Django based server-client application.",
+      "order": 0,
+      "experience": 1
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-07-16T15:42:22.740Z",
+      "updated_at": "2022-07-16T15:42:22.740Z",
+      "user": 1,
+      "bullet": "Designed all the backends and data models for the application, and assigned tasks to individual developers",
+      "order": 1,
+      "experience": 1
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-07-16T15:42:22.741Z",
+      "updated_at": "2022-07-16T15:42:22.741Z",
+      "user": 1,
+      "bullet": "Mostly worked on the backend functionality, and data validation, integrity, and security of the application",
+      "order": 2,
+      "experience": 1
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-07-16T15:42:22.741Z",
+      "updated_at": "2022-07-16T15:42:22.741Z",
+      "user": 1,
+      "bullet": "Implemented Esewa online payment gateway API",
+      "order": 3,
+      "experience": 1
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-07-16T15:42:22.742Z",
+      "updated_at": "2022-07-16T15:42:22.742Z",
+      "user": 1,
+      "bullet": "Integrated both the backends and frontends, and managed GitHub repository",
+      "order": 4,
+      "experience": 1
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 6,
+    "fields": {
+      "created_at": "2022-07-16T15:45:16.306Z",
+      "updated_at": "2022-07-16T15:45:16.306Z",
+      "user": 1,
+      "bullet": "Defined coding convention and git workflows to be used in organization which improved productivity, readability, maintainability, and the quality",
+      "order": 0,
+      "experience": 2
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 7,
+    "fields": {
+      "created_at": "2022-07-16T15:45:16.308Z",
+      "updated_at": "2022-07-16T15:45:16.308Z",
+      "user": 1,
+      "bullet": "Designed and developed core features of a sophisticated data analytics and visualization tool; creating CDISC frequency count, and summary statistics reports, deriving variable,  and dataset from a da",
+      "order": 1,
+      "experience": 2
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 8,
+    "fields": {
+      "created_at": "2022-07-16T15:45:16.309Z",
+      "updated_at": "2022-07-16T15:45:16.309Z",
+      "user": 1,
+      "bullet": "Wrote functions to read/write and parse different data formats including XML, JSON, Excel, CSV, SAS, parquet in Python, and implemented and optimized pseudo caching at application level",
+      "order": 2,
+      "experience": 2
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 9,
+    "fields": {
+      "created_at": "2022-07-16T15:45:16.309Z",
+      "updated_at": "2022-07-16T15:45:16.309Z",
+      "user": 1,
+      "bullet": "Wrote several optimized SQL queries for SQLite database operations",
+      "order": 3,
+      "experience": 2
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 10,
+    "fields": {
+      "created_at": "2022-07-16T15:45:16.310Z",
+      "updated_at": "2022-07-16T15:45:16.310Z",
+      "user": 1,
+      "bullet": "Assisted in different recruitments by shortlisting and taking the technical interviews of several applicants",
+      "order": 4,
+      "experience": 2
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 11,
+    "fields": {
+      "created_at": "2022-07-16T15:45:16.311Z",
+      "updated_at": "2022-07-16T15:45:16.311Z",
+      "user": 1,
+      "bullet": "Performed benchmarks for different requirements, and libraries",
+      "order": 5,
+      "experience": 2
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 12,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.132Z",
+      "updated_at": "2022-07-16T15:48:19.132Z",
+      "user": 1,
+      "bullet": "Led a team of 10 developers to develop RESTful application on Django, R, and React ecosystem (react JS, redux JS, redux-thunk, etc).",
+      "order": 0,
+      "experience": 3
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 13,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.134Z",
+      "updated_at": "2022-07-16T15:48:19.134Z",
+      "user": 1,
+      "bullet": "Designed, and documented architecture, data models, and end points specification of the applications using visio, draw.io, and confluence",
+      "order": 1,
+      "experience": 3
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 14,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.135Z",
+      "updated_at": "2022-07-16T15:48:19.135Z",
+      "user": 1,
+      "bullet": "Actively worked as a full-stack developer, reviewed other developers' code, managed bitbucket repositories, and documented the work",
+      "order": 2,
+      "experience": 3
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 15,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.136Z",
+      "updated_at": "2022-07-16T15:48:19.136Z",
+      "user": 1,
+      "bullet": "Mainly worked in desktop, and web based RESTful data analytics, Visualization and reporting applications for pharmaceutical industry",
+      "order": 3,
+      "experience": 3
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 16,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.137Z",
+      "updated_at": "2022-07-16T15:48:19.137Z",
+      "user": 1,
+      "bullet": "Closely worked with client from US, for requirement analysis, system design, and strategic planning",
+      "order": 4,
+      "experience": 3
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 17,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.137Z",
+      "updated_at": "2022-07-16T15:48:19.137Z",
+      "user": 1,
+      "bullet": "Set up the job descriptions/requirements, and conducted technical interviews for different openings in the organization",
+      "order": 5,
+      "experience": 3
+    }
+  },
+  {
+    "model": "resume.experiencedescription",
+    "pk": 18,
+    "fields": {
+      "created_at": "2022-07-16T15:48:19.138Z",
+      "updated_at": "2022-07-16T15:48:19.138Z",
+      "user": 1,
+      "bullet": "Performed POC, feasibility tests, and benchmarks for different requirements, libraries, and frameworks",
+      "order": 6,
+      "experience": 3
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 1,
+    "fields": {
+      "category": "Programming Languages"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 2,
+    "fields": {
+      "category": "SQL and Databases"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 3,
+    "fields": {
+      "category": "Frontend"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 4,
+    "fields": {
+      "category": "Backend"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 5,
+    "fields": {
+      "category": "AI/ML/DS Stack"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 6,
+    "fields": {
+      "category": "VCS & Repository Management"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 7,
+    "fields": {
+      "category": "Machine Learning"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 8,
+    "fields": {
+      "category": "Software Engineering Principles"
+    }
+  },
+  {
+    "model": "resume.techskillcategory",
+    "pk": 9,
+    "fields": {
+      "category": "Issue Management, and Documentation"
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Python",
+      "level": 5,
+      "category": 1
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "JavaScript",
+      "level": 4,
+      "category": 1
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Java",
+      "level": 2,
+      "category": 1
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "C/C++",
+      "level": 2,
+      "category": 1
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "SQLite",
+      "level": 4,
+      "category": 2
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 6,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "MySQL",
+      "level": 3,
+      "category": 2
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 7,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "PostgreSQL",
+      "level": 4,
+      "category": 2
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 8,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Oracle DB",
+      "level": 2,
+      "category": 2
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 9,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "PyQt/PySide (Desktop)",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 10,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "HTML",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 11,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "CSS",
+      "level": 3,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 12,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "JavaScript",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 13,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "React JS",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 14,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Redux JS",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 15,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Redux-Thunk",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 16,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Axios",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 17,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Ant Design",
+      "level": 4,
+      "category": 3
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 18,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Django",
+      "level": 3,
+      "category": 4
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 19,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Django Rest Framework",
+      "level": 3,
+      "category": 4
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 20,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Pandas",
+      "level": 5,
+      "category": 5
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 21,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Regular Expressions",
+      "level": 5,
+      "category": 5
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 22,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Numpy",
+      "level": 3,
+      "category": 5
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 23,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Keras",
+      "level": 2,
+      "category": 5
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 24,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Scikit learn",
+      "level": 3,
+      "category": 5
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 25,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Tableau",
+      "level": 2,
+      "category": 5
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 26,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "R",
+      "level": 3,
+      "category": 5
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 27,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Git",
+      "level": 3,
+      "category": 6
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 28,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "GitHub",
+      "level": 4,
+      "category": 6
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 29,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Bitbucket",
+      "level": 4,
+      "category": 6
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 30,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Neural Network",
+      "level": 2,
+      "category": 7
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 31,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "LSTM RNN",
+      "level": 4,
+      "category": 7
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 32,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "CNN",
+      "level": 4,
+      "category": 7
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 33,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "OOP",
+      "level": 4,
+      "category": 8
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 34,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "MVC",
+      "level": 4,
+      "category": 8
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 35,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Design Patterns",
+      "level": 3,
+      "category": 8
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 36,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "REST",
+      "level": 4,
+      "category": 8
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 37,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Agile",
+      "level": 4,
+      "category": 8
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 38,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "SDLC",
+      "level": 4,
+      "category": 8
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 39,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "JIRA",
+      "level": 4,
+      "category": 9
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 40,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Trello",
+      "level": 3,
+      "category": 9
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 41,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "Confluence",
+      "level": 4,
+      "category": 9
+    }
+  },
+  {
+    "model": "resume.techskill",
+    "pk": 42,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.506Z",
+      "updated_at": "2022-07-17T12:52:46.530Z",
+      "user": 1,
+      "name": "MS Office",
+      "level": 4,
+      "category": 9
+    }
+  },
+  {
+    "model": "resume.softskill",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.479Z",
+      "updated_at": "2022-07-17T12:52:46.500Z",
+      "user": 1,
+      "name": "Good communication skill"
+    }
+  },
+  {
+    "model": "resume.softskill",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.479Z",
+      "updated_at": "2022-07-17T12:52:46.500Z",
+      "user": 1,
+      "name": "Self dedicated, and quick to learn"
+    }
+  },
+  {
+    "model": "resume.softskill",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.479Z",
+      "updated_at": "2022-07-17T12:52:46.500Z",
+      "user": 1,
+      "name": "Accuracy, thorough and attention to details"
+    }
+  },
+  {
+    "model": "resume.softskill",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.479Z",
+      "updated_at": "2022-07-17T12:52:46.500Z",
+      "user": 1,
+      "name": "Time management, and problem solving"
+    }
+  },
+  {
+    "model": "resume.softskill",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.479Z",
+      "updated_at": "2022-07-17T12:52:46.500Z",
+      "user": 1,
+      "name": "Team work, collaboration, and leadership"
+    }
+  },
+  {
+    "model": "resume.education",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.400Z",
+      "updated_at": "2022-07-17T12:52:46.417Z",
+      "user": 1,
+      "university": "Tribhuvan University (IOE)",
+      "school": "Kathford International College of Engineering & Management",
+      "address": "Balkumari, Lalitpur",
+      "course": "Computer Engineering",
+      "level": "Bachelor",
+      "start_date": "2015-01-01",
+      "end_date": "2019-12-31",
+      "score": "72.13%",
+      "description": "Merit based full scholorship"
+    }
+  },
+  {
+    "model": "resume.education",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.400Z",
+      "updated_at": "2022-07-17T12:52:46.417Z",
+      "user": 1,
+      "university": "HSEB, Nepal Govt",
+      "school": "Jubilant Higher Secondary School",
+      "address": "Kalimati, Kathmandu",
+      "course": "+2 Science",
+      "level": "High School",
+      "start_date": "2013-01-01",
+      "end_date": "2015-12-01",
+      "score": "68.5%",
+      "description": "Computer"
+    }
+  },
+  {
+    "model": "resume.interest",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-08-04T22:09:33.557Z",
+      "updated_at": "2022-08-04T22:09:33.557Z",
+      "user": 1,
+      "interest": "Music"
+    }
+  },
+  {
+    "model": "resume.interest",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-08-04T22:09:39.869Z",
+      "updated_at": "2022-08-04T22:09:39.869Z",
+      "user": 1,
+      "interest": "Dancing"
+    }
+  },
+  {
+    "model": "resume.interest",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-08-04T22:09:46.093Z",
+      "updated_at": "2022-08-04T22:09:46.093Z",
+      "user": 1,
+      "interest": "Cooking"
+    }
+  },
+  {
+    "model": "resume.interest",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-08-04T22:09:57.437Z",
+      "updated_at": "2022-08-04T22:09:57.437Z",
+      "user": 1,
+      "interest": "Travelling"
+    }
+  },
+  {
+    "model": "resume.contact",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.349Z",
+      "updated_at": "2022-07-17T12:52:46.397Z",
+      "user": 1,
+      "contact_type": "Mobile",
+      "contact_info": "+977-98-455-32932"
+    }
+  },
+  {
+    "model": "resume.contact",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.349Z",
+      "updated_at": "2022-07-17T12:52:46.397Z",
+      "user": 1,
+      "contact_type": "Email",
+      "contact_info": "er.bikhyat@gmail.com"
+    }
+  },
+  {
+    "model": "resume.contact",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.349Z",
+      "updated_at": "2022-07-17T12:52:46.397Z",
+      "user": 1,
+      "contact_type": "LinkedIn",
+      "contact_info": "https://www.linkedin.com/in/bkhyat/"
+    }
+  },
+  {
+    "model": "resume.contact",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.349Z",
+      "updated_at": "2022-07-17T12:52:46.397Z",
+      "user": 1,
+      "contact_type": "GitHub",
+      "contact_info": "https://github.com/bkhyat"
+    }
+  },
+  {
+    "model": "resume.contact",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-07-17T12:52:46.349Z",
+      "updated_at": "2022-08-04T20:45:32.731Z",
+      "user": 1,
+      "contact_type": "Stackoverflow",
+      "contact_info": "https://stackoverflow.com/users/9136348"
+    }
+  },
+  {
+    "model": "resume.achievement",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-08-04T22:17:08.998Z",
+      "updated_at": "2022-08-04T22:17:08.998Z",
+      "user": 1,
+      "description": "315k+ views on Quora Articles",
+      "link": "https://www.quora.com/profile/Bikhyat-Adhikari/answers",
+      "order": 0
+    }
+  },
+  {
+    "model": "resume.achievement",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-08-04T22:17:47.969Z",
+      "updated_at": "2022-08-04T22:17:47.969Z",
+      "user": 1,
+      "description": "700+ Python answer & 13K+ reputation on stackoverflow",
+      "link": "https://stackoverflow.com/users/9136348/thepyguy?tab=answers&sort=votes",
+      "order": 1
+    }
+  },
+  {
+    "model": "resume.achievement",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-08-04T22:18:08.065Z",
+      "updated_at": "2022-08-04T22:18:08.065Z",
+      "user": 1,
+      "description": "Merit based full scholarship for BE Computer",
+      "link": null,
+      "order": 2
+    }
+  },
+  {
+    "model": "resume.achievement",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-08-04T22:18:33.805Z",
+      "updated_at": "2022-08-04T22:18:33.805Z",
+      "user": 1,
+      "description": "Active member, and blood donor of BORN",
+      "link": null,
+      "order": 3
+    }
+  },
+  {
+    "model": "resume.project",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-08-04T22:29:23.655Z",
+      "updated_at": "2022-08-04T22:29:23.655Z",
+      "user": 1,
+      "project_name": "Chicken Price Prediction using LSTM RNN",
+      "project_description": "It was a minor project in fulfillment of 5th and 6th semester for Bachelors of Computer Engineering. We trained and tested an LSTM (Long Short Term Memory) - RNN (Recurrent Neural Network) feeding the chicken price in Nepal for 20 years.",
+      "completed_at": "2018-11-01",
+      "url": null,
+      "has_demo": false,
+      "tech_stacks": [
+        1,
+        40,
+        20,
+        22,
+        23,
+        24,
+        27,
+        28,
+        30,
+        31
+      ]
+    }
+  },
+  {
+    "model": "resume.project",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-08-04T22:32:16.020Z",
+      "updated_at": "2022-08-04T22:32:16.020Z",
+      "user": 1,
+      "project_name": "Optical Alphanumeric Character Recognition using CNN",
+      "project_description": "It was the major project in fulfillment of Bachelor of Computer Engineering.",
+      "completed_at": "2019-11-01",
+      "url": "https://github.com/bkhyat/OCR-using-CNN",
+      "has_demo": true,
+      "tech_stacks": [
+        32,
+        1,
+        40,
+        42,
+        20,
+        22,
+        23,
+        24,
+        27,
+        28,
+        30
+      ]
+    }
+  },
+  {
+    "model": "resume.coursesandcertification",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-08-04T22:19:56.535Z",
+      "updated_at": "2022-08-04T22:19:56.535Z",
+      "user": 1,
+      "title": "Engineering License",
+      "url": null,
+      "description": "Registration Number 8613 issued by Nepal Engineering Council",
+      "certification_url": null,
+      "completed_at": "2021-12-01"
+    }
+  },
+  {
+    "model": "timelogger.timelog",
+    "pk": 3,
+    "fields": {
+      "date": "2022-10-30",
+      "start": "20:25:00",
+      "end": "23:24:00",
+      "description": "Hello",
+      "user": 1
+    }
+  },
+  {
+    "model": "timelogger.timelog",
+    "pk": 4,
+    "fields": {
+      "date": "2022-10-30",
+      "start": "20:25:00",
+      "end": "23:24:00",
+      "description": "Hello",
+      "user": 1
+    }
+  },
+  {
+    "model": "timelogger.timelog",
+    "pk": 7,
+    "fields": {
+      "date": "2022-10-30",
+      "start": "04:45:00",
+      "end": "05:39:00",
+      "description": "Testing Log Push",
+      "user": 1
+    }
+  },
+  {
+    "model": "timelogger.timelog",
+    "pk": 8,
+    "fields": {
+      "date": "2022-10-20",
+      "start": "12:40:00",
+      "end": "18:20:00",
+      "description": "Testing",
+      "user": 1
+    }
+  },
+  {
+    "model": "timelogger.timelog",
+    "pk": 9,
+    "fields": {
+      "date": "2022-10-30",
+      "start": "04:45:00",
+      "end": "05:39:00",
+      "description": "Hello There",
+      "user": 1
+    }
+  },
+  {
+    "model": "timelogger.timelog",
+    "pk": 10,
+    "fields": {
+      "date": "2022-10-30",
+      "start": "04:45:00",
+      "end": "05:39:00",
+      "description": "Tehre",
+      "user": 1
+    }
+  },
+  {
+    "model": "timelogger.timelog",
+    "pk": 11,
+    "fields": {
+      "date": "2022-10-15",
+      "start": "04:45:00",
+      "end": "05:39:00",
+      "description": "sdf",
+      "user": 1
+    }
+  }
+]
