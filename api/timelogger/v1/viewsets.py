@@ -700,8 +700,6 @@ class TimeLoggerViewSet(viewsets.ModelViewSet):
         """
         dt = datetime.strptime(request.query_params.get("date"), '%Y-%m-%dT%H:%M:%S.%fZ')
         qs = self.get_queryset()
-        last_date = qs.aggregate(Max('date'))['date__max']
-        current = last_date - timedelta(days=last_date.weekday())
 
         this_start = dt - timedelta(days=(dt.isoweekday() + 1) % 7)
         prev_start = this_start - timedelta(days=7)
@@ -712,8 +710,4 @@ class TimeLoggerViewSet(viewsets.ModelViewSet):
                               qs.filter(date__gte=prev_start, date__lt=this_start).values("date").order_by(
                                   "date").annotate(total=Sum(F('end') - F('start'))).values_list("date__iso_week_day",
                                                                                                  "total")}}
-        # this_week = TimeLog.objects.filter(date__gte=this_start).values("date").order_by("date").annotate(
-        #     total=ExtractMinute(Sum(F('end') - F('start')))).values_list("date__iso_week_day", "total")
-        # prev_week = TimeLog.objects.filter(date__gte=prev_start, date__lt=this_start).values("date").order_by(
-        #     "date").annotate(total=Sum(F('end') - F('start'))).values_list("date__iso_week_day", "total")
         return Response(data)
